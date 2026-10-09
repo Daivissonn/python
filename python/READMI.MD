@@ -1,0 +1,1 @@
+Isto que eu criei, é um carrinho de compras em python, com um app rodando, sem pagamento nem nada, so o carrinho 
